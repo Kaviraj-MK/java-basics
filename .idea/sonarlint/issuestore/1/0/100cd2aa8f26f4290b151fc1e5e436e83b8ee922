@@ -1,11 +1,11 @@
 
 {
-java:S1854"8Remove this useless assignment to local variable "audi".(­õ£„8Ä›ïö1J$b815d2bb-97f2-41da-bd6a-79e0b64c22c1
-r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ç›ïö1J$452f572e-bd92-448c-a157-44a21297f78c
-r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8È›ïö1J$6872277e-f88d-49b5-8b64-725b7f7ba405
+java:S1854"8Remove this useless assignment to local variable "audi".(­õ£„8Í‹Ùğö1J$cc4070ac-12bf-4937-832b-64c3a6582d80
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ğ‹Ùğö1J$cd82141c-3130-4cb5-aec8-063053e0eee7
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ñ‹Ùğö1J$1ace6bd8-a827-40f0-813a-74772794c9b1
 l
-java:S1481")Remove this unused "audi" local variable.(­õ£„8Ê›ïö1J$2a4b4a69-8025-4a02-bab6-5feffaf8805b
-r	java:S106!"+Replace this use of System.out by a logger.(ºØÛÉûÿÿÿÿ8Ê›ïö1J$0d0815a5-49ee-4be5-b58c-498f25aae3fd
-r	java:S106#"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ê›ïö1J$0e1dbefb-47bb-4708-9e2b-2d195296ed89
-r	java:S106-"+Replace this use of System.out by a logger.(şÄíÆøÿÿÿÿ8Ë›ïö1J$c9ba2bd6-6261-47ce-a921-e16bbd613971
-L	java:S1067"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8÷‘ïö1
+java:S1481")Remove this unused "audi" local variable.(­õ£„8Ò‹Ùğö1J$6f9ae4fd-1033-4c1b-8c96-2681bbfbd66e
+r	java:S106!"+Replace this use of System.out by a logger.(ºØÛÉûÿÿÿÿ8Ò‹Ùğö1J$9cdf19ba-6b85-41a3-b8f4-d9b5072b3997
+r	java:S106#"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ò‹Ùğö1J$2969365c-c561-4087-94ca-357b4a751772
+r	java:S106-"+Replace this use of System.out by a logger.(şÄíÆøÿÿÿÿ8Ó‹Ùğö1J$5a686cf9-2e8b-4edc-8b8b-d865afe34034
+r	java:S1067"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ó‹Ùğö1J$64b00b44-3561-4839-b9c3-dea37401115d
