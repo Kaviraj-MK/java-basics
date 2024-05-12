@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05b1150e-ca99-480e-bda4-f7d0e7b2068f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/application/lamda/BusDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/application/lamda/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/application/lamda/CarDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/application/lamda/Printable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/100cd2aa8f26f4290b151fc1e5e436e83b8ee922" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/100cd2aa8f26f4290b151fc1e5e436e83b8ee922" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/abe25e851ee828e40a94fcb1c1be6f78ff7a04cf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/b/abe25e851ee828e40a94fcb1c1be6f78ff7a04cf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/application/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="05b1150e-ca99-480e-bda4-f7d0e7b2068f" name="Changes" comment="empty commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +46,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "lambda",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -92,9 +81,19 @@
       <option name="presentableId" value="Default" />
       <updated>1714542699774</updated>
     </task>
+    <task id="LOCAL-00001" summary="empty commit">
+      <option name="closed" value="true" />
+      <created>1715536190773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715536190773</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="empty commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="empty commit" />
   </component>
 </project>
