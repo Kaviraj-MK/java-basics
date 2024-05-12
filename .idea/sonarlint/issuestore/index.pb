@@ -16,7 +16,5 @@ c
 ,src/main/java/org/application/lamda/Car.java,a\9\a968afda6852824916f047d03909a34c63c56fad
 b
 2src/main/java/org/application/lamda/Printable.java,c\2\c26d77f091538c1761ed93e8af6e997493f665b3
-d
-4src/main/java/org/application/lamda/BusDetatils.java,5\2\5218ac733f16828450486067f6d1736d7f93f086
 c
 3src/main/java/org/application/lamda/BusDetails.java,d\5\d509198b3a3123452c50332cdae1bafc139b9636
